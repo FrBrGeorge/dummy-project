@@ -3,5 +3,5 @@
 Really dummy project. Just for testing
 
 ## Бессмысленный подзаголовок
-Беччмысленный текст!
+Беccмысленный текст!
 
